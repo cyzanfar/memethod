@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/memethod.svg)](http://badge.fury.io/rb/memethod)
 <a href="https://codeclimate.com/repos/552c9644e30ba026cd000687/feed"><img src="https://codeclimate.com/repos/552c9644e30ba026cd000687/badges/6c0a75cab634e1f38d99/gpa.svg" /></a>
 
 # memethod
